@@ -2,12 +2,11 @@ Unpaired, unsupervised domain adaptation assumes your domains are already simila
 =================================================================================
 This is the unreleased code for the experiments described in:
 
-> **Unpaired, unsupervised domain adaptation assumes your domains are already similar**
->
-> by Gijs van Tulder and Marleen de Bruijne
->
+> **Unpaired, unsupervised domain adaptation assumes your domains are already similar** <br>
+> by [Gijs van Tulder](https://vantulder.net/) and Marleen de Bruijne <br>
 > Medical Image Analysis, 2023
 
+The paper is available as open access ([DOI 10.1016/j.media.2023.102825](https://doi.org/10.1016/j.media.2023.102825)).
 
 Components
 ----------
